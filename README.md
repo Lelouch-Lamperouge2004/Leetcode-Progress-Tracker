@@ -198,6 +198,6 @@ npm run dev
 
 ---
 
-## Resume Description
+## Description
 
 Developed a full-stack Leetcode Progress Tracker using FastAPI, PostgreSQL, React, TypeScript, and Tailwind CSS. Implemented JWT authentication, CRUD operations, analytics dashboards, search functionality, and interactive data visualizations using Recharts.
